@@ -62,7 +62,7 @@ abort()
 
 
 
-### Branch
+### 分支 （Branch）
 
 ```c
 {
@@ -192,8 +192,3 @@ RET 在说明书中作为单独的指令列出，因为它在汇编中是不同�
     mem_write(reg[r1] + offset, reg[r0]);
 }
 ```
-
-
-
-
-
